@@ -6,12 +6,21 @@ Hi Henry, good evening,
 Please find attached the summary of this week's sprint (Week 43, 10/26-10/30).
 
 HEADLINE: 94% of all committed hours were delivered (211 of 224) with a 95%
-sprint-agreed closure rate - and the validation work confirmed $1.07B of SMB
-pipeline ready to surface in the Waterfall, a 63x increase over what the
-report shows today.
+sprint-agreed closure rate - despite losing 36 hrs (12% of capacity) to
+absences - and the validation work confirmed $1.07B of SMB pipeline ready to
+surface in the Waterfall, a 63x increase over what the report shows today.
+
+AVAILABILITY THIS WEEK
+  Juan Guerrero out the full week, sick (-12 hrs, 0.3 FTE)
+  Malena Arduino out 2 days (-16 hrs)
+  Juanse Uribe out Monday (-8 hrs)
+  Adjusted capacity: 312 - 36 = 276 hrs
+  None of the open carry-over items trace to these absences - Malena closed
+  all 7 of her stories (23 hrs) in 3 working days and Juanse closed all 6 of
+  his (25 hrs).
 
 KEY NUMBERS
-  Team capacity:           312 hrs
+  Adjusted capacity:       276 hrs (312 standard - 36 absence)
   Committed:               224 hrs
   Completed value:         211 hrs
   Sprint-agreed closure:   95%
@@ -21,7 +30,7 @@ KEY NUMBERS
 SPRINT AGREED ITEMS (planned Mon 10/26 - Tue 10/27)
   Total User Stories:      59
   Total Original Estimate: 221 hrs
-  Capacity coverage:       71%
+  Capacity coverage:       80%
   Closed within the week:  56 of 59 (95%)
 
 MID-WEEK ITEMS (created after Tuesday planning)
