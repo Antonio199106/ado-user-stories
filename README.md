@@ -1,10 +1,23 @@
-# ADO User Stories
+# ADO User Stories — Team Workflows
 
-Chat transcript and summary from a conversation about querying User Stories
-in the Azure DevOps project **TSI Sales and Ops** (`dev.azure.com/oneCELA`)
-via the Azure CLI.
+Everything needed to run our Azure DevOps workflows for project
+**TSI Sales and Ops** (`dev.azure.com/oneCELA`):
 
-See [`chat-transcript.md`](./chat-transcript.md) for the full conversation.
+| Workflow | Where |
+|---|---|
+| ADO analysis (querying stories via Azure CLI) | [`chat-transcript.md`](./chat-transcript.md) — methodology + summary below |
+| User Story creation | [`docs/user-story-creation.md`](./docs/user-story-creation.md) |
+| Monday/Friday email + weekly workbook | [`docs/friday-email-process.md`](./docs/friday-email-process.md), scripts in [`email-pipeline/`](./email-pipeline/), example output in [`week43/`](./week43/) |
+| Team capacity baseline | [`user-stories/team-capacity-baseline.csv`](./user-stories/team-capacity-baseline.csv) |
+
+## Getting started (new team member)
+
+1. Get access to the ADO project **TSI Sales and Ops** on `dev.azure.com/oneCELA`.
+2. Install Azure CLI, run `az login`, then
+   `az devops configure --defaults organization=https://dev.azure.com/oneCELA`.
+3. Install Node.js (for the email pipeline) and run `npm install` inside `email-pipeline/`.
+4. Use **your own** credentials/token everywhere (`ADO_TOK` env var for the pipeline).
+   Never commit tokens, PATs, or raw data exports to this repo.
 
 ## Summary
 
