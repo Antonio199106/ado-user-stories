@@ -1,0 +1,143 @@
+WEEK 43 - DELIVERY & IMPACT SUMMARY
+Elevate Sprint | Oct 26 - Oct 30, 2026 | TSI Sales and Ops
+
+Hi Henry, good evening,
+
+Please find attached the summary of this week's sprint (Week 43, 10/26-10/30).
+
+HEADLINE: 94% of all committed hours were delivered (211 of 224) with a 95%
+sprint-agreed closure rate - despite losing 36 hrs (12% of capacity) to
+absences - and the validation work confirmed $1.07B of SMB pipeline ready to
+surface in the Waterfall, a 63x increase over what the report shows today.
+
+AVAILABILITY THIS WEEK
+  Juan Guerrero out the full week, sick (-12 hrs, 0.3 FTE)
+  Malena Arduino out 2 days (-16 hrs)
+  Juanse Uribe out Monday (-8 hrs)
+  Adjusted capacity: 312 - 36 = 276 hrs
+  None of the open carry-over items trace to these absences - Malena closed
+  all 7 of her stories (23 hrs) in 3 working days and Juanse closed all 6 of
+  his (25 hrs).
+
+KEY NUMBERS
+  Adjusted capacity:       276 hrs (312 standard - 36 absence)
+  Committed:               224 hrs
+  Completed value:         211 hrs
+  Sprint-agreed closure:   95%
+  Mid-week closure:        100%
+  Innovation ratio:        45%
+
+SPRINT AGREED ITEMS (planned Mon 10/26 - Tue 10/27)
+  Total User Stories:      59
+  Total Original Estimate: 221 hrs
+  Capacity coverage:       80%
+  Closed within the week:  56 of 59 (95%)
+
+MID-WEEK ITEMS (created after Tuesday planning)
+  Total User Stories:      2
+  Total Original Estimate: 3 hrs
+  Capacity coverage:       1%
+  Closed within the week:  2 of 2 (100%)
+
+CLOSED OR RESOLVED
+  Total User Stories:      58
+  Total Completed Value:   211 hrs
+
+SPILLOVER (all carry into next sprint)
+  Total User Stories:      3
+  Total Original Estimate: 13 hrs
+  - #568362 Renewal signals on Engagement Signals dashboard (in progress)
+  - #569088 AI-enabled Signals replacement (not started)
+  - #589166 November MBU deck template (month-start deliverable)
+
+IMPACT ANALYSIS (closed/resolved hours only)
+  Initiative               Run     Build   Transform  Total    Innovation
+  In-Year Parenting        51.0    5.0     2.0        58.0     12%
+  Sales Excellence         21.0    6.0     -          27.0     22%
+  Reporting & Automation   36.0    63.5    19.0       118.5    70%
+  Employee Giving          7.5     -       -          7.5      0%
+  TOTAL                    115.5   74.5    21.0       211.0    45%
+                           (55%)   (35%)   (10%)
+
+READING IT: Reporting & Automation ran at 70% Build + Transform - this was a
+validation and architecture week: the MSX Azure pipeline tables were validated
+against MSXI exports (defects worth $55B corrected), the SMB billed pipeline
+was proven directly against MSXI ($1.07B vs the $17M visible today) with a
+hybrid UAT Waterfall built to stage it, and the Waterfall transformation
+pipeline was hardened after the 10/15 and 10/22 incident where it wrote 2,780
+rows instead of 27.5M while reporting success. In-Year Parenting was
+deliberately Run-heavy - a 30-hr segmentation week plus the full Rev Rec
+cycle - while still adding Q1 Revenue & Cloud views and a first AI-automation
+assessment. Mid-week demand was nearly zero (3 hrs): Tuesday planning
+captured the week almost perfectly.
+
+MID-WEEK WATCH
+  #590142 (1 hr)  CELA employee missing from Give employee list - caught and
+                  corrected during the live campaign; closed same week.
+  #590497 (2 hrs) One View - monthly MBU options, role-based editing, overdue
+                  notifications - governance updates shipped within the week.
+
+IMPACT SCORECARD
+
+[REPORTING & AUTOMATION SUPPORT - 118.5 hrs]
+  Delivered: MSX Azure pipeline tables validated against MSXI exports -
+  defects worth $55B found and corrected | SMB billed pipeline validated
+  directly against MSXI ($1.07B; 63x what the Waterfall shows today) and a
+  hybrid UAT Waterfall built to stage the production decision | Waterfall
+  transformation pipeline hardened after the silent under-write incident
+  (2,780 rows vs 27.5M, reported as success) | Dev->Prod deployment
+  architecture advanced: variable libraries created, deployment lineage
+  mapped, weekly Fabric promotions sustained | Elevate POC warehouse migration
+  to Lakefront started | CSAM assignments display fixed, app presented to CSAM
+  managers with feedback collected | Partner Tracker: last-refresh-time
+  display, Sales Unit geography fix, manual GPSHUB refreshes with handoff KT |
+  Engagement Signals: RLS roles adjusted, renewals marketing notebook added,
+  biweekly/YTD/priority query enhancements | GitHub Copilot configured for
+  consistent ADO story creation
+  Who benefits: 800-1,000 end users | Partner Managers | sellers | Sales
+  Operations | engineering team
+  Risk retired: Revenue reporting understated by over $1B of invisible SMB
+  pipeline | pipelines reporting success while writing 0.01% of expected rows
+  | promotions breaking dependent items | single-person refresh dependency
+
+[IN-YEAR PARENTING / REGIONAL SALES OPS - 58 hrs]
+  Delivered: 30-hr segmentation week processed | weekly Rev Rec movement
+  update delivered and the October 27 Rev Rec run executed and validated | Q1
+  Revenue and Commercial Cloud views added to Rev Rec outputs | reviewer
+  assignments and submission completeness validated across the In-Year backlog
+  | Copilot code automation assessed for Power BI data exports | weekly
+  segmentation & parenting governance review held
+  Who benefits: Requesters, Sales Operations, Rev Rec stakeholders, GSOC,
+  leadership
+  Risk retired: Segmentation requests aging without reviewer accountability |
+  Rev Rec outputs going stale before leadership review | manual export effort
+  continuing unexamined when AI automation may remove it
+
+[SALES EXCELLENCE ANALYTICS & OPERATIONS - 27 hrs]
+  Delivered: November MBU cycle opened: automated Scale deck validation tested
+  at global scope - first step toward replacing manual deck checks | October
+  ECIF casework closed out | weekly decision support sustained across
+  Waterfall, VDS, SMB pipeline and MBU | FY27 Nonprofit Renewals contact data
+  delivered | cross-workstream risk coordination, engagement-health oversight
+  and capacity rebalancing held for the week
+  Who benefits: Henry Oliver and Managed/Scale OU leads, MBU review audience,
+  ECIF program, sellers
+  Risk retired: Manual deck validation errors reaching leadership reviews |
+  consulting capacity unbalanced against demand | cross-workstream
+  dependencies left unowned
+
+[EMPLOYEE GIVING - 7.5 hrs]
+  Delivered: Weekly Give/EEDR maintenance and reporting operations sustained
+  through the live campaign | new Giving Champions added to regional DLs and
+  the weekly new-GC report delivered | volunteer-hours spike investigated and
+  validated for a GC inquiry | missing CELA employee restored to the Give
+  employee list | weekly leader report delivered (10/29)
+  Who benefits: Giving Champions, CELA leaders, FTEs, Give program team
+  Risk retired: Leaders or employees missing from live campaign reporting |
+  suspicious volunteer-hour spikes left unexplained
+
+Best regards,
+Antonio
+
+(Full story-level detail, business impact text, and the initiative impact
+matrix are in the attached workbook - every story ID links to Azure DevOps.)

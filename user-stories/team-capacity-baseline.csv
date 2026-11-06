@@ -1,0 +1,28 @@
+EffectiveFrom,EffectiveTo,Name,Email,AllocatedHours,AllocationPercent,WeeklyCapacityHours
+,2026-09-30,Mathias Mayenberger (NEXTANT LLC),,,50,20
+,2026-09-30,David Leyva Franco (NEXTANT LLC),v-davidleyva@microsoft.com,,100,40
+,2026-09-30,Federico Huertas (NEXTANT LLC),Fhuertas@nextant.com,,50,20
+,2026-09-30,Diego Mora Anzola (NEXTANT LLC),v-mordiego@microsoft.com,,30,12
+,2026-09-30,Sebastian Amaya,samaya@nextant.com,,30,12
+,2026-09-30,Sebastian Uribe (NEXTANT LLC),v-seuribe@microsoft.com,,100,40
+,2026-09-30,Natalia Cuellar,,,70,28
+,2026-09-30,Diego Beltran Rojas (NEXTANT LLC),v-diegobel@microsoft.com,,75,30
+,2026-09-30,Malena Arduino (NEXTANT LLC),v-maarduino@microsoft.com,,100,40
+,2026-09-30,Jimmy Mara,jmara@nextant.com,,100,40
+,2026-09-30,Valentina Velosa (NEXTANT LLC),v-vavelosa@microsoft.com,,50,20
+,2026-09-30,Juan Guerrero Martinez (NEXTANT LLC),v-juanguerr@microsoft.com,,30,12
+,2026-09-30,Sergio Sierra Osorio (NEXTANT LLC),v-sergiosi@microsoft.com,,50,20
+,2026-09-30,Juan Sarmiento Garcia (NEXTANT LLC),v-juansarm@microsoft.com,,50,20
+,2026-09-30,Antonio Alvarez,aalvarez@nextant.com,,50,20
+2026-10-01,,Diego Beltran Rojas (NEXTANT LLC),v-diegobel@microsoft.com,176,100,40.00
+2026-10-01,,Sebastian Uribe (NEXTANT LLC),v-seuribe@microsoft.com,176,100,40.00
+2026-10-01,,Malena Arduino (NEXTANT LLC),v-maarduino@microsoft.com,176,100,40.00
+2026-10-01,,Sergio Sierra Osorio (NEXTANT LLC),v-sergiosi@microsoft.com,176,100,40.00
+2026-10-01,,Natalia Cuellar,,123,70,27.95
+2026-10-01,,Antonio Alvarez,aalvarez@nextant.com,88,50,20.00
+2026-10-01,,David Leyva Franco (NEXTANT LLC),v-davidleyva@microsoft.com,88,50,20.00
+2026-10-01,,Federico Huertas (NEXTANT LLC),Fhuertas@nextant.com,88,50,20.00
+2026-10-01,,Jimmy Mara,jmara@nextant.com,88,50,20.00
+2026-10-01,,Juan Sarmiento Garcia (NEXTANT LLC),v-juansarm@microsoft.com,88,50,20.00
+2026-10-01,,Juan Guerrero Martinez (NEXTANT LLC),v-juanguerr@microsoft.com,53,30,12.05
+2026-10-01,,Sebastian Amaya,samaya@nextant.com,53,30,12.05
